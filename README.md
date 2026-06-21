@@ -1,3 +1,5 @@
+![header](1782032822307.png)
+
 [🇵🇹 PT](#) | [🇬🇧 EN](#)
 
 # 🧠 Projetos de Fim de Semana (Weekend Projects) — O Teu Treino de Elite
