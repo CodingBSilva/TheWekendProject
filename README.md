@@ -3,7 +3,7 @@
 [🇵🇹 PT](#) | [🇬🇧 EN](#)
 
 # 🧠 Projetos de Fim de Semana (The Weekend Project).
-###  O Teu Treino de Elite. {}
+###  O Teu Treino de Elite {}
 
 
 Bem-vindo ao repositório de **Projetos de Fim de Semana**. Este espaço foi desenhado para profissionais e entusiastas que compreenderam uma verdade fundamental do mundo tecnológico: **a melhor forma de aprender é criar**.
@@ -29,4 +29,4 @@ Acede ao ficheiro completo de projetos do **Fim de Semana 1** aqui:
 
 *“A mestria não é um acidente, é o resultado de uma prática intencional.”*
 
-### Bons commits e excelente fim de semana de código! {}
+### Bons commits e excelente fim de semana de código {}
